@@ -1,0 +1,14 @@
+:root {
+  color-scheme: light;
+  --color-primary: #0f4d36;
+  --color-primary-dark: #0a3727;
+  --color-primary-soft: #e8efe9;
+  --color-accent: #a9813f;
+  --color-ink: #1a1d1b;
+  --color-body: #3f4541;
+  --color-muted: #6b726d;
+  --color-paper: #faf9f6;
+  --color-surface: #ffffff;
+  --color-sand: #f1eee7;
+  --color-border: #e3e1db;
+}
